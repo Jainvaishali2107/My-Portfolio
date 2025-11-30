@@ -9,7 +9,7 @@ import { Projects2 } from "./pages/Projects";
 import { Skills2 } from "./pages/Skills";
 import { Education2 } from "./pages/Education";
 import { Resume2 } from "./pages/Resume";
-import { Certificates2 } from "./pages/certificates";
+import { Certificates2 } from "./pages/Certificates";
 import {Contact2} from "./pages/Contact"
 export default function App() {
   return (
