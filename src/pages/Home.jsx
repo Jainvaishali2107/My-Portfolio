@@ -54,7 +54,7 @@ export default function Home2() {
         md:gap-6 
         
         justify-items-center
-        pt-6
+        pt-10
         pl-6
         pr-6
         pb-15
