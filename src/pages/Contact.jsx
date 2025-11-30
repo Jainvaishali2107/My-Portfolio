@@ -1,7 +1,7 @@
 export function Contact2() {
   return (
     <>
-      <div className="bg-[url('/space.jpg')] bg-center bg-cover bg-no-repeat bg-contain bg-[length:600px] pt-18 pb-30">
+      <div className="bg-[url('/space.jpg')] bg-center bg-cover bg-no-repeat bg-contain bg-[length:600px] pt-25 pb-40">
         <div className="flex justify-center mt-10 px-4">
           <div className="max-w-4xl w-full bg-[#0d1527] p-8 md:p-10 rounded-3xl border border-white/10 shadow-xl backdrop-blur-md flex flex-col md:flex-row items-center md:justify-between gap-8">
             <div className="space-y-4 text-center md:text-left">

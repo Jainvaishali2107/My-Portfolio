@@ -27,7 +27,7 @@ export default function Home2() {
         md:p-10
         "
       >
-        <div className="space-y-3 text-center md:text-left md:pl-10 max-w-lg">
+        <div className="space-y-3 text-center md:text-left md:pl-10 max-w-lg pt-15">
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-wide text-white drop-shadow-[0_0_4px_rgba(255,255,255,0.3)]">
             Vaishali Jain – Full Stack Developer
           </h1>
@@ -52,8 +52,12 @@ export default function Home2() {
         md:grid-cols-5 
         gap-4 
         md:gap-6 
-        p-6 
+        
         justify-items-center
+        pt-6
+        pl-6
+        pr-6
+        pb-15
         "
       >
         <Link to="/skills"><Skills2 /></Link>

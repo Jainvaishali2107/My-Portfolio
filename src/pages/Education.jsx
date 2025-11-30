@@ -4,7 +4,7 @@ import { Collegecard } from "../assets/components/professionalcards";
 export function Education2() {
   return (
     <>
-      <div className="bg-[url('/space.jpg')] bg-center bg-cover bg-no-repeat bg-contain bg-[length:600px] pt-10 pb-20">
+      <div className="bg-[url('/space.jpg')] bg-center bg-cover bg-no-repeat bg-contain bg-[length:600px] pt-20 pb-30">
         
         <div className="text-center my-10 px-4">
           <h2 className="text-3xl sm:text-4xl font-extrabold text-white tracking-wide">

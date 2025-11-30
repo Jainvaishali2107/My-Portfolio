@@ -1,7 +1,7 @@
 export function Resume2() {
   return (
     <>
-      <div className="bg-[url('/space.jpg')] bg-center bg-cover bg-no-repeat bg-contain pt-20 pb-20 flex justify-center pt-25 pb-35">
+      <div className="bg-[url('/space.jpg')] bg-center bg-cover bg-no-repeat bg-contain pt-20 pb-40 flex justify-center pt-25 pb-35">
         <div className="max-w-md w-full bg-[#0a1a2f] text-white rounded-2xl p-5 shadow-xl border border-white/10 hover:shadow-[0_0_30px_rgba(80,150,255,0.4)] transition-all duration-300">
           <div className="rounded-xl overflow-hidden mb-5">
             <img 

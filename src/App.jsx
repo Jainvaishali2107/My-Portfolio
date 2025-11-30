@@ -14,7 +14,7 @@ import {Contact2} from "./pages/Contact"
 export default function App() {
   return (
     <BrowserRouter>
-  <div className="bg-blue-950 p-3">
+  <div className="bg-blue-950 pl-3 pr-3 pb-3 pt-8">
       <div className="max-w-4xl mx-auto grid grid-cols-2 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-5 place-items-center gap-6 ">
         <HomeSection />
         <ProjectsSection />
