@@ -15,7 +15,7 @@ export function Resume2() {
             My Resume
           </p>
           <a 
-            href="https://drive.google.com/file/d/1SjfRoRbYKXOUPYxx0Kl2Q5_X3DWscwLe/view?usp=drive_link" 
+            href="https://drive.google.com/file/d/1MV91ceZPCIKVl6kMzmdWdxFUnDClM3_8/view?usp=sharing" 
             target="_blank" 
             rel="noopener noreferrer"
           >
