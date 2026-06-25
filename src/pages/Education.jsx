@@ -1,6 +1,6 @@
 import { Schoolingcard } from "../assets/components/professionalcards";
 import { Collegecard } from "../assets/components/professionalcards";
-
+import { Internshipcard1 } from "../assets/components/professionalcards";
 export function Education2() {
   return (
     <>
@@ -12,12 +12,15 @@ export function Education2() {
           </h2>
           <div className="w-20 h-1 bg-blue-500 mx-auto mt-2 rounded-full"></div>
         </div>
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 pt-15 pb-15 md:px-10">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-15 pb-15 md:px-10">
           <div>
             <Schoolingcard />
           </div>
           <div>
             <Collegecard />
+          </div>
+          <div>
+            <Internshipcard1 />
           </div>
         </div>
       </div>
