@@ -35,7 +35,7 @@ export default function Home2() {
 
           <p className="text-white/90 text-base sm:text-lg drop-shadow-[0_0_3px_rgba(255,255,255,0.25)]">
             Skilled Full-Stack Developer with expertise in React, Node.js, MongoDB,
-            Tailwind CSS, Express.
+            Tailwind CSS, Express. Mastering DSA in Java.
           </p>
         </div>
 

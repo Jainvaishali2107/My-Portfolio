@@ -1,6 +1,6 @@
 import { StratwarsCard } from "../assets/components/certificatescards"
 import { MissionmalamaalCard } from "../assets/components/certificatescards"
-
+import { BharatanditsscientificgloryCard } from "../assets/components/certificatescards"
 export function Certificates2() {
   return (
     <>
@@ -11,6 +11,7 @@ export function Certificates2() {
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-10 place-items-center px-4 sm:px-8 lg:px-16">
           <div><StratwarsCard /></div>
           <div><MissionmalamaalCard /></div>
+<div><BharatanditsscientificgloryCard/></div>
         </div>
 
       </div>
