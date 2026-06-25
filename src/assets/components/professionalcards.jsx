@@ -89,11 +89,11 @@ export function Internshipcard1(){
   <h2 className="mt-4 text-2xl font-bold text-white">Internship At Nexera</h2>
 
   <p className="text-blue-400 font-semibold">
-    Working as a tech intern at Nexera.
+    Worked as a tech intern at Nexera.
   </p>
 
   <p className="mt-3 text-gray-300 leading-relaxed">
-    From February 2026 – Present
+    From February 2026 – May 2026
   </p>
 
   <ul className="mt-4 space-y-2 text-gray-300">
@@ -104,7 +104,7 @@ export function Internshipcard1(){
 
     <li className="flex gap-2">
       <span className="text-blue-400">•</span>
-      Working on building their website.
+      Worked on building their website.
     </li>
   </ul>
 
@@ -118,6 +118,18 @@ export function Internshipcard1(){
                  transition-all duration-300 shadow-md hover:shadow-blue-500/40 active:scale-95"
     >
       View Offer Letter
+    </a>
+  </div>
+
+   <div className="mt-6 flex justify-center">
+    <a 
+      href="https://drive.google.com/file/d/1bOSWRxdBh9AByoW-dmmrvvTBc5RuqcXY/view?usp=sharing" 
+      target="_blank" 
+      rel="noopener noreferrer"
+      className="px-6 py-2 bg-blue-600 hover:bg-blue-500 text-white font-medium rounded-xl 
+                 transition-all duration-300 shadow-md hover:shadow-blue-500/40 active:scale-95"
+    >
+      View completion certificate
     </a>
   </div>
 </div>
