@@ -119,9 +119,9 @@ export function StudentOScard() {
       </p>
 
       <div className="flex flex-wrap gap-2 mb-6">
+        <span className="bg-blue-900/40 px-3 py-1 rounded-full text-sm border border-blue-500/30">Mongo DB</span>
         <span className="bg-blue-900/40 px-3 py-1 rounded-full text-sm border border-blue-500/30">React</span>
-        <span className="bg-blue-900/40 px-3 py-1 rounded-full text-sm border border-blue-500/30">Tailwind CSS</span>
-        <span className="bg-blue-900/40 px-3 py-1 rounded-full text-sm border border-blue-500/30">Vite</span>
+        <span className="bg-blue-900/40 px-3 py-1 rounded-full text-sm border border-blue-500/30">Express,jwt</span>
         <span className="bg-blue-900/40 px-3 py-1 rounded-full text-sm border border-blue-500/30">Basic UI</span>
       </div>
 
