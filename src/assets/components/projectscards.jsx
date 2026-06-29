@@ -97,3 +97,48 @@ export function Portfoliocard() {
     </div>
   );
 }
+
+export function StudentOScard() {
+  return (
+    <div className="max-w-md bg-[#0a1a2f] text-white rounded-2xl p-5 shadow-xl border border-white/10 hover:shadow-[0_0_30px_rgba(80,150,255,0.4)] transition-all duration-300">
+
+      <div className="rounded-xl overflow-hidden mb-5">
+        <img
+          src="/projectphoto.jpg"
+          alt="Project Banner"
+          className="w-full object-cover"
+        />
+      </div>
+
+      <h2 className="text-2xl font-bold mb-3">Student-OS</h2>
+
+      <p className="text-gray-300 leading-relaxed mb-4">
+       Student OS – Full-stack productivity platform to manage tasks, 
+       events, classes, and hackathons in one unified dashboard 
+       using the MERN stack.
+      </p>
+
+      <div className="flex flex-wrap gap-2 mb-6">
+        <span className="bg-blue-900/40 px-3 py-1 rounded-full text-sm border border-blue-500/30">React</span>
+        <span className="bg-blue-900/40 px-3 py-1 rounded-full text-sm border border-blue-500/30">Tailwind CSS</span>
+        <span className="bg-blue-900/40 px-3 py-1 rounded-full text-sm border border-blue-500/30">Vite</span>
+        <span className="bg-blue-900/40 px-3 py-1 rounded-full text-sm border border-blue-500/30">Basic UI</span>
+      </div>
+
+      {/* Buttons */}
+      <div className="flex flex-col gap-3">
+
+        <a
+          href="https://github.com/Jainvaishali2107/Student-OS" 
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <button className="w-full py-3 rounded-xl border border-gray-500/40 hover:bg-gray-700 transition-all duration-300 font-semibold">
+            See Code
+          </button>
+        </a>
+      </div>
+
+    </div>
+  );
+}
