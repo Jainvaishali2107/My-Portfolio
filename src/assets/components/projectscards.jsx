@@ -104,7 +104,7 @@ export function StudentOScard() {
 
       <div className="rounded-xl overflow-hidden mb-5">
         <img
-          src="/projectphoto.jpg"
+          src="/studentosimage.jpg"
           alt="Project Banner"
           className="w-full object-cover"
         />
