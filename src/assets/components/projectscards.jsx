@@ -172,7 +172,11 @@ Built with the MERN stack and Generative AI.
 
       {/* Buttons */}
       <div className="flex flex-col gap-3">
-
+<Link to="https://hersphere.onrender.com/" target="_blank">
+          <button className="w-full py-3 rounded-xl border border-blue-500/50 hover:bg-blue-700 transition-all duration-300 font-semibold">
+            Visit Site
+          </button>
+        </Link>
         <a
           href="https://github.com/Jainvaishali2107/HerSphere" 
           target="_blank"
